@@ -4,8 +4,8 @@
   "compiler.optimization_flags": "",
   "customBuildProperties": "",
   "fqbn": "arduino:avr:uno",
-  "hardwareFolders": "C:\\Users\\Sofia\\AppData\\Local\\Arduino15\\packages",
-  "otherLibrariesFolders": "C:\\Users\\Sofia\\Documents\\Arduino\\libraries",
+  "hardwareFolders": "C:\\Users\\ASUS\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Arduino\\libraries",
   "runtime.ide.version": "10607",
-  "sketchLocation": "D:\\Jose\\Metodologia\\Proyectos\\arduino_proyec\\Blink"
+  "sketchLocation": "C:\\Users\\ASUS\\mis_repositorios\\arduino_proyec\\Blink"
 }

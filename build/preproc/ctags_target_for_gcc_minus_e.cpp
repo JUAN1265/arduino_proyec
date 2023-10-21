@@ -1,4 +1,4 @@
-# 1 "D:\\Jose\\Metodologia\\Proyectos\\arduino_proyec\\Blink\\Blink.ino"
+# 1 "C:\\Users\\ASUS\\mis_repositorios\\arduino_proyec\\Blink\\Blink.ino"
 /*
 
   Blink
@@ -44,7 +44,7 @@
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
 
 */
-# 25 "D:\\Jose\\Metodologia\\Proyectos\\arduino_proyec\\Blink\\Blink.ino"
+# 25 "C:\\Users\\ASUS\\mis_repositorios\\arduino_proyec\\Blink\\Blink.ino"
 // the setup function runs once when you press reset or power the board
 void setup()
 {

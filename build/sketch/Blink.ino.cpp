@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "D:\\Jose\\Metodologia\\Proyectos\\arduino_proyec\\Blink\\Blink.ino"
+#line 1 "C:\\Users\\ASUS\\mis_repositorios\\arduino_proyec\\Blink\\Blink.ino"
 /*
   Blink
 
@@ -25,11 +25,11 @@
 */
 
 // the setup function runs once when you press reset or power the board
-#line 26 "D:\\Jose\\Metodologia\\Proyectos\\arduino_proyec\\Blink\\Blink.ino"
+#line 26 "C:\\Users\\ASUS\\mis_repositorios\\arduino_proyec\\Blink\\Blink.ino"
 void setup();
-#line 33 "D:\\Jose\\Metodologia\\Proyectos\\arduino_proyec\\Blink\\Blink.ino"
+#line 33 "C:\\Users\\ASUS\\mis_repositorios\\arduino_proyec\\Blink\\Blink.ino"
 void loop();
-#line 26 "D:\\Jose\\Metodologia\\Proyectos\\arduino_proyec\\Blink\\Blink.ino"
+#line 26 "C:\\Users\\ASUS\\mis_repositorios\\arduino_proyec\\Blink\\Blink.ino"
 void setup()
 {
     // initialize digital pin LED_BUILTIN as an output.
